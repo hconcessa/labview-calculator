@@ -6,3 +6,6 @@ This project:
 - Import the DLL functions to Labview
 - Create a VIs in Labview from the DLL
 - Use the DLL functions in Labview
+
+
+// TODO - step by step
